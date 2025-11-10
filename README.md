@@ -61,8 +61,9 @@ graph LR
     D --> E[Global Edge Servers]
     F[Push Notifications<br>Deep Linking] --> A
 
-    Impact Delivered:
+  
 ```
+  Impact Delivered:
 50% faster connection speed
 30% higher user retention
 40% fewer security vulnerabilities
