@@ -2,7 +2,6 @@
 **Backend Tech Lead | 99.95% Uptime | Quant Finance | 100K-User VPN | Ex-Toptal**
 
 > **Du To NDA  source code Show snipped Codes on Demand just. Only architecture, metrics, and vision from production systems.**
-> I build systems that **run nations, save millions, and secure 100K+ users**.
 
 ---
 
